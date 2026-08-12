@@ -1,0 +1,34 @@
+year,state,constituency,winner_name,winner_party,winner_votes,runner_up_party,runner_up_votes,margin,total_votes,turnout_pct
+2024,Uttar Pradesh,Varanasi,Narendra Modi,BJP,612970,INC,235661,377309,851628,54.8
+2024,Uttar Pradesh,Lucknow,Rajnath Singh,BJP,544396,SP,303721,240675,861214,58.3
+2024,Uttar Pradesh,Kanpur,Ramesh Awasthi,BJP,529543,SP,422893,106650,981265,55.4
+2024,Uttar Pradesh,Allahabad,Ujjwal Raman Singh,BJP,450223,SP,417894,32329,913488,53.2
+2024,Delhi,New Delhi,Bansuri Swaraj,BJP,236177,AAP,227382,8795,501293,60.1
+2024,Delhi,East Delhi,Harsh Malhotra,BJP,312590,AAP,247009,65581,612834,63.4
+2024,Maharashtra,Mumbai North,Piyush Goyal,BJP,484538,INC,363025,121513,891421,54.4
+2024,Maharashtra,Pune,Murlidhar Mohol,BJP,491278,INC,385312,105966,932411,58.2
+2024,West Bengal,Diamond Harbour,Abhishek Banerjee,TMC,664861,BJP,345665,319196,1063497,74.4
+2024,West Bengal,Kolkata North,Sudip Bandyopadhyay,TMC,487892,BJP,356290,131602,903621,72.1
+2024,Tamil Nadu,Chennai Central,Dayanidhi Maran,DMK,485298,BJP,125743,359555,689341,68.3
+2024,Karnataka,Bangalore South,Tejasvi Surya,BJP,725786,INC,441831,283955,1231578,63.1
+2024,Gujarat,Surat,Mukesh Dalal,BJP,835837,OTHER,3,835834,975487,69.6
+2024,Punjab,Amritsar,Gurjeet Singh Aujla,INC,328309,BJP,270657,57652,681324,62.3
+2024,Punjab,Ludhiana,Amarinder Singh Raja Warring,INC,411677,BJP,349483,62194,832451,63.5
+2019,Uttar Pradesh,Varanasi,Narendra Modi,BJP,674664,SP,195159,479505,965783,60.7
+2019,Uttar Pradesh,Lucknow,Rajnath Singh,BJP,634,INC,250,384,876543,62.1
+2019,Delhi,New Delhi,Meenakshi Lekhi,BJP,508560,AAP,252754,255806,803641,62.1
+2019,Maharashtra,Mumbai North,Gopal Shetty,BJP,467533,INC,144756,322777,689213,56.8
+2019,West Bengal,Diamond Harbour,Abhishek Banerjee,TMC,579892,BJP,389890,190002,1023561,78.4
+2019,Karnataka,Bangalore South,Tejasvi Surya,BJP,693233,INC,424603,268630,1205143,72.2
+2019,Tamil Nadu,Chennai Central,Dayanidhi Maran,DMK,378290,BJP,52891,325399,634521,67.1
+2019,Gujarat,Surat,Darshana Jardosh,BJP,797220,INC,274504,522716,1127842,66.1
+2014,Uttar Pradesh,Varanasi,Narendra Modi,BJP,581022,AAP,209238,371784,1038013,60.8
+2014,Delhi,New Delhi,Meenakshi Lekhi,BJP,468514,AAP,336349,132165,875324,66.3
+2014,Maharashtra,Mumbai North,Gopal Shetty,BJP,463710,INC,224126,239584,761483,57.5
+2014,West Bengal,Jadavpur,Sugata Bose,TMC,394834,CPM,282258,112576,741943,81.6
+2014,Karnataka,Bangalore South,Ananth Kumar,BJP,588781,INC,329248,259533,1001584,63.2
+2014,Tamil Nadu,Chennai Central,P Chidambaram,INC,297,DMK,181,116,643231,68.4
+2009,Uttar Pradesh,Amethi,Rahul Gandhi,INC,464195,BJP,108080,356115,672432,49.4
+2009,Delhi,New Delhi,Ajay Maken,INC,253083,BJP,204024,49059,531234,56.2
+2009,Maharashtra,Mumbai North,Ram Naik,BJP,324561,INC,310251,14310,689435,54.2
+2009,West Bengal,Jadavpur,Sugata Bose,TMC,354824,CPM,316728,38096,735423,82.1
